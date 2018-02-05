@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: alike68-hasura
+  data: null
+  kubeContext: alike68
+  name: alike68
