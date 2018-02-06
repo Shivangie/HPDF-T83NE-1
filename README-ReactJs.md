@@ -2,10 +2,9 @@
 
 The web app for this project is made in ReactJs
 
-<<<<<<< HEAD
 ## How it looks 
 
- ![Alt webapp]()
+ ![Alt webapp](https://github.com/Shivangie/HPDF-T83NE-1/blob/master/readme-assets/HPDFNE.gif)
 
 ## Local Deployment
 
