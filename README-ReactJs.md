@@ -4,10 +4,10 @@ The web app for this project is made in ReactJs
 
 ## How it looks
 
+![alt webapp](https://github.com/Shivangie/HPDF-T83NE-1/blob/master/readme-assets/s2_web.png)
+
 ![alt webapp](https://github.com/Shivangie/HPDF-T83NE-1/blob/master/readme-assets/s1_web.png)
-
-   ![alt webapp](https://github.com/Shivangie/HPDF-T83NE-1/blob/master/readme-assets/s2_web.png)
-
+  
 ## Local Deployment
 
 1. Download or clone the repo
