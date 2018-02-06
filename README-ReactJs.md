@@ -2,6 +2,10 @@
 
 This project contains the UI for this project made in ReactJs.
 
+## How it looks 
+
+ ![Alt webapp]()
+
 ## Local Deployment
 
 1. Download or clone the repo
