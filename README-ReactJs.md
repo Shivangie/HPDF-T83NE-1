@@ -1,7 +1,8 @@
 # ReactJs WebApp
 
-This project contains the UI for this project made in ReactJs.
+The web app for this project is made in ReactJs
 
+<<<<<<< HEAD
 ## How it looks 
 
  ![Alt webapp]()
